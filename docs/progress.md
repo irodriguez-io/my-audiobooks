@@ -13,4 +13,4 @@
 **Open**
 - Q6 Listening Log retention → 007-listening-log. Q7 skip amounts → 006-lock-screen-controls.
 - A1 and A2 are the riskiest assumptions → 000-architecture-spike. Each Screen-Locked Session is an overnight run on Isidro's phone, with the Listening Log exported and shared.
-- GitHub repo `irodriguez-io/my-audiobooks` not created yet; nothing pushed. First push waits until `isidro@irodriguez.io` forwards mail and is verified on GitHub.
+- Public repo `irodriguez-io/my-audiobooks` created on 2026-10-26 and `main` pushed (`eace913`, authored as the verified `isidro@irodriguez.io`). A push over SSH failed only because the passphrase-protected key wasn't in the ssh-agent; it is now loaded from Keychain, and `origin` uses SSH.
